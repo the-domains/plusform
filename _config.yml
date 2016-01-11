@@ -1,0 +1,28 @@
+name: plusform
+favicon: null
+layout_spectrum: 0.09444475965574384
+typography_spectrum: 0.8357151357922703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9299043593928218
+  lightness: 0.31622712942771614
+  saturation: 0.6048084767535329
+  rhythmicContrast: 0.5503978305496275
+purpose: []
